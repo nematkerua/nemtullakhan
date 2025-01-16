@@ -11,8 +11,8 @@ Hello, I'm Nemtulla Khan, .NET Full-Stack Developer with 6+ years of experience,
 
 ## Topics I Cover:
 - **C#**
-- **Azure**
-- **Blazor**
+- **Agular**
+- **MS SQL**
 - **ASP.NET CORE**
 - **Web API**
 

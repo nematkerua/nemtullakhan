@@ -1,8 +1,3 @@
-Hi My name is Nemtulla Khan
-
-
-I am a full-stack developer
-Hello, I'm Nemtulla Khan, 6+ years exprience  Developer proficient in Angular, TypeScript, C#, and. NET. With a focus on crafting efficient and scalable applications, I stay abreast of industry trends. I welcome the opportunity to connect and discuss potential collaborations.
 # Hi 👋 My name is Nemtulla Khan
 
 ## Full stack developer
@@ -39,7 +34,3 @@ Visit my [YouTube channel](https://www.youtube.com/@Nemtechofficial) to dive dee
 
 ## My GitHub Stats:
 ![Nemtulla Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nematkerua&show_icons=true&theme=radical)
-
----
-
-Feel free to customize further as needed!
